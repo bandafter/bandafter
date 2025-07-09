@@ -30,7 +30,7 @@ onMounted(() => {
   <div class="map panel h-dvh justify-items-center content-center px-10">
     <div></div>
     <div id="map" style="width: 90%; height: 50%"></div>
-    <h3>서울 마포구 어울마당로 65 상상마당빌딩</h3>
+    <h3>서울 마포구 어울마당로 65 상상마당빌딩></h3>
     <div>
       <ul>
         <li>
